@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: aliceblue;
+}
+
+button {
+  margin: 5px;
+}
